@@ -23,6 +23,4 @@ def add_food(username,fav_food):
 	check_username.fav_food = fav_food
 	session.commit()
 
-
-
-
+	
